@@ -6,7 +6,8 @@ When the button is clicked, the heading text changes to **"4.0 Technology"** and
 
 ---
 ## 🛠 Technologies Used  
-⚡ **HTML**  
+⚡ **HTML**   
+⚡ **CSS**  
 ⚡ **JavaScript (DOM Manipulation)**   
 
 ---
