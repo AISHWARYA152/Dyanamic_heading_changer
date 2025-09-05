@@ -16,9 +16,8 @@ When the button is clicked, the heading text changes to **"4.0 Technology"** and
 ## 📸 Output Screenshots  
 🔵 **Before Click**  
 ![Web Technologies Screenshot](https://github.com/AISHWARYA152/Dyanamic_heading_changer/blob/e0f2ff4f90d0895fcec4a1b684b7e86471363615/Screenshot%202025-09-05%20172941.png)  
-
 🟢 **After Click**  
-![4.0 Technology Screenshot](screenshot2.png)  
+![4.0 Technology Screenshot](https://github.com/AISHWARYA152/Dyanamic_heading_changer/blob/da61ccb9fbb6ece636724020d5bd8a6c25241e67/Screenshot%202025-09-05%20173008.png)  
 
 ## 🖥 Live Demo  
 🌐 [Open Project Here](https://aishwarya152.github.io/Dyanamic_heading_changer/)  
